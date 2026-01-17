@@ -1,4 +1,4 @@
-# Hey, I’m Ibrahim 💫
+# Hey, I’m Ibrahim 🌀
 <br>I’m a First Class Computer Science graduate... and i like football. Chelsea 🔵
 
 # 💻 Tech Stack:
