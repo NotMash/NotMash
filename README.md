@@ -1,5 +1,10 @@
-# Hey, I’m Ibrahim 💫:
-<br>I studied Computer Science and spend most of my time building things that actually have to work, not just look clever on paper. I like getting close to how systems behave under pressure, where they break, and why.<br><br>I’ve worked mostly on backend and data heavy projects. APIs, event driven services, pipelines that move and transform data, and the messy glue in between. I care about code that is readable, boring in a good way, and easy to come back to months later.<br><br>I’ve used Python, Go, Java, SQL, Kafka, Docker, Kubernetes, and a mix of cloud tools. I’ve also spent time on search and machine learning projects, especially around retrieval, embeddings, and making models useful rather than impressive.<br><br>I’m big on fundamentals. Understanding trade offs. Keeping things simple. Shipping, learning, fixing, and repeating.<br><br>Still figuring things out. Still building.
+# Hey, I’m Ibrahim 💫
+<br>I’m a First Class Computer Science graduate. I spend most of my time building things that actually have to work, not just look clever on paper. I like getting close to how systems behave under pressure, where they break, and why.
+I’ve worked mostly on backend and data heavy projects. APIs, event driven services, pipelines that move and transform data, and the messy glue in between. I care about code that is readable, boring in a good way, and easy to come back to months later.
+I’ve used Python, Go, Java, SQL, Kafka, Docker, Kubernetes, and a mix of cloud tools. I’ve also spent time on search and machine learning projects, especially around retrieval and embeddings, where the goal is usefulness, not hype.
+I’m big on fundamentals. Trade offs. Keeping things simple. Shipping, learning, fixing, and repeating.
+
+Still figuring things out. Still building.
 
 
 ## 🌐 Socials:
