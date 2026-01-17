@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=450&lines=Hey%2C+I%E2%80%99m+Ibrahim+%F0%9F%8C%80)
+# # ‎![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=450&lines=Hey%2C+I%E2%80%99m+Ibrahim+%F0%9F%8C%80)
 <br>I’m a First Class Computer Science graduate... and i like football. Chelsea 🔵
 
 # 💻 Tech Stack:
